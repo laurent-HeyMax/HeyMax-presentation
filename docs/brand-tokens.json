@@ -1,0 +1,23 @@
+{
+  "version": "heymax-2026.10-v1",
+  "source": "https://www.figma.com/design/osbBQgXRz6Rd19ZnuqMoWX/Design-System--external-?node-id=13-2852",
+  "colours": {
+    "primary": "#21005E",
+    "secondary": "#F3EAFF",
+    "tertiary": "#4000B8",
+    "brightPurple": "#6E1FFF",
+    "cyan": "#00E3FD",
+    "neutralInk": "#1A1A1A",
+    "neutralMuted": "#787284",
+    "neutralSurface": "#FCFAFF",
+    "neutralBorder": "#E9E8EB"
+  },
+  "typography": { "family": "Plus Jakarta Sans", "weights": [400, 500, 600, 650, 700] },
+  "presentationApplication": {
+    "status": "First studio application, for team review",
+    "canvas": { "width": 1280, "height": 720 },
+    "padding": { "horizontal": 64, "top": 44 },
+    "sizes": { "cover": 60, "statement": 72, "headline": 48, "subtitle": 21, "body": 22, "source": 11 },
+    "note": "Presentation sizes are application choices, not a verbatim export of the guideline’s documentation-scale examples."
+  }
+}
